@@ -1,0 +1,131 @@
+.introjs-tooltip {
+  max-width: 600px !important;
+  width: 500px !important;
+  color: #112c75;
+}
+@media only screen and (max-width: 480px) {
+  .introjs-tooltip {
+    width: 445px !important;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .introjs-tooltip {
+    width: 315px !important;
+  }
+}
+.introjs-skipbutton {
+  font-size: 32px;
+  transition: all 0.5s ease-in-out;
+  right: 7px;
+  position: absolute;
+}
+.introjs-tooltip-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.introjs-skipbutton:hover {
+  transform: rotate(-360deg);
+  color: red;
+}
+
+.introjs-bullets ul li {
+  float: left;
+}
+
+.introjs-bullets ul li a.active {
+  border-radius: 0%;
+  background: #112c75;
+}
+
+.introjs-nextbutton {
+  border: 1px solid #112c75;
+  float: left;
+  width: 55px;
+  height: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #112c75;
+  background-color: #ffffff;
+  border-radius: 7px;
+}
+
+.introjs-nextbutton:before {
+  top: 3px;
+  left: 4px;
+  width: 10px;
+  height: 10px;
+  content: "";
+  position: absolute;
+  border-top: 2px solid #112c75;
+  border-left: 2px solid #112c75;
+  border-top-left-radius: 5px;
+}
+
+.introjs-prevbutton {
+  border: 1px solid #112c75;
+  width: 55px;
+  height: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #112c75;
+  background-color: #ffffff;
+  border-radius: 7px;
+  float: right;
+}
+
+.introjs-prevbutton:before {
+  top: 3px;
+  left: 4px;
+  width: 10px;
+  height: 10px;
+  content: "";
+  position: absolute;
+  border-top: 2px solid #112c75;
+  border-left: 2px solid #112c75;
+  border-top-left-radius: 5px;
+}
+
+.introjs-tooltiptext {
+  display: flex;
+  padding: 15px;
+}
+
+.introjs-helperLayer {
+  box-shadow: #ffffff 0px 0px 1px 2px, rgb(33 33 33 / 90%) 0px 0px 0px 5000px !important;
+}
+
+.introjs-arrow {
+  border: 10px solid transparent;
+}
+
+.introjs-arrow.top {
+  top: -20px;
+  display: inherit !important;
+  border-bottom-color: #b2c900;
+}
+
+.introjs-arrow.top-middle {
+  top: -20px;
+  display: inherit !important;
+  border-bottom-color: #b2c900;
+}
+
+.introjs-arrow.bottom {
+  bottom: -20px;
+  display: inherit !important;
+  border-top-color: #b2c900;
+}
+
+.introjs-arrow.right {
+  right: -20px;
+  display: inherit !important;
+  border-left-color: #b2c900;
+}
+
+.introjs-tooltiptext {
+  padding: 15px px;
+}

@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "themes": [
+    {
+      "id": 1,
+      "name": "defaultTheme",
+      "isActive": true,
+      "createdAt": "2021-03-07T22:04:49.211Z",
+      "updatedAt": "2021-03-07T22:04:49.211Z",
+      "elements": {
+        "type": "light",
+        "direction": "ltr",
+        "fontFamily": { "ar": "Almarai", "en": "OpenSansRegular" },
+        "fontSize": { "xs": 12, "s": 16, "m": 20, "lg": 24, "xl": 28 },
+        "colors": {
+          "white": "#fff",
+          "primary": "#263661",
+          "secondary": "#BC9738",
+          "footerBg": "#3B4A72",
+          "textDark": "#22293D",
+          "textMed": "#4A4A4A",
+          "textLight": "#747474",
+          "pollOuterBox": "#e5e5e5",
+          "pollInnerBox": "#B2C900"
+        }
+      }
+    }
+  ],
+  "limit": 10,
+  "offset": 0
+}

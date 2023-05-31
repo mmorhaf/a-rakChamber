@@ -1,0 +1,63 @@
+/* common Styles */
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+  padding-right: 0px !important;
+  line-height: 24px !important;
+  font: 400 14px sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+img {
+  max-width: 100%;
+}
+/* Website Font */
+/* English font */
+
+@font-face {
+  font-family: "OpenSansRegular";
+  src: url("./fonts/open_sans/OpenSansRegular.eot");
+  src: local("OpenSansRegular"),
+    url("./fonts/open_sans/OpenSansRegular.woff") format("woff"),
+    url("./fonts/open_sans/OpenSansRegular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Noto";
+  src: url("./fonts/noto/NotoKufiArabic-VariableFont_wght.ttf");
+  src: local("NotoKufiArabic-VariableFont_wght"),
+    url("./fonts/noto/NotoKufiArabic-VariableFont_wght.ttf") format("truetype"),
+    url("./fonts/noto/NotoKufiArabic-VariableFont_wght.ttf") format("truetype");
+}
+
+/* colored social Icons */
+
+.instagram {
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  -webkit-background-clip: text;
+  /*  standard property for compatibility */
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  font-size: 1.5rem;
+}
+.twitter {
+  fill: #1da1f2 !important;
+}
+.youtube {
+  fill: #ff0000 !important;
+}
+.facebook {
+  fill: #4267b2 !important;
+}

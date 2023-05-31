@@ -1,0 +1,1196 @@
+{
+  "translation": {
+    "HELPERTEXT": {
+      "ALLOWEDEXTENSIONS": "Allowed Extensions: ",
+      "MAXFILESIZE": " & Maximum Size: "
+    },
+    "TABLE": {
+      "FILTERS": "Filters",
+      "RESET": "Reset",
+      "PAGEROWS": "Rows Per Page",
+      "OF": "of",
+      "SELECTED": "row(s) selected",
+      "NOMATCH": "Sorry, no matching records found"
+    },
+    "HEADER": {
+      "NOTIFICATION": "notification",
+
+      "SETTINGS": {
+        "TITLE": "Change Font Size",
+        "COLORS": "Colors",
+        "NIGHT": "night mode"
+      },
+
+      "NAV": {
+        "HOME": "Home",
+        "ABOUTUS": "About Us",
+        "SERVICES": "Our Services",
+        "MEDIA": "Media Center",
+        "PARTICIPATION": "E-Participation",
+        "DATA": "Open Data",
+        "CAREERS": "Careers",
+        "CONTACT": "Contact Us"
+      },
+
+      "TOOLS": {
+        "LOGIN": "Log in",
+        "LOGOUT": "Log out",
+        "LANGUAGE": "العربية",
+        "ACCESSIBILITY": "Accessibility Settings",
+        "SETTINGS": "Settings",
+        "TOUR": "Virtual Tour",
+        "SEARCH": "Search...",
+        "NEXT": "Next",
+        "BACK": "Back",
+        "END_TOUR": "End Tour",
+        "INTRO_WELCOME": "WELCOME TO RAK CHAMBER WEBSITE",
+        "LOGO_INTRO_PHRASE": "This is an intro tour to help you recognize the website content, so that you get better benefit from it",
+        "MAIN_MENU": "Main Menu",
+        "MAIN_MENU_PHRASE": "You can use the Main menu of the website to browse the whole website.",
+        "PERSONALIZATION": "Personalization",
+        "PERSONALIZATION_PHRASE": "You can utilize important features like personalizing your profile,  and search in the website as well as changing the website theme color",
+        "MAIN_BANNER": "Main Banner",
+        "MAIN_BANNER_PHRASE": "Here you can access to all services provided by RAK Chamber and can find most used services  With the ability to search for any service or view all services by clicking on view all button",
+        "MEDIA_CENTER": "Media Center",
+        "MEDIA_CENTER_PHRASE": "From here you can quickly access news, photos, videos and publications",
+        "OPPORTUNITY_INITIATIVE": "Opportunity & Initiative",
+        "OPPORTUNITY_INITIATIVE_PHRASE": "here you can find  Investment Opportunity & Initiative",
+        "EVENTS": "Events",
+        "EVENTS_PHRASE": " you can quickly explore all events and In addition, you can see the events on this day",
+        "CONTACT_US": "Connect With Us & E-Particiption & Important links",
+        "CONTACT_US_PHRASE": "You can find our social media channels and You can participate in voting and surveys and provide opinions and ideas through the  E-participation section,and You can access a group of important links within the site "
+      },
+
+      "LOGIN": {
+        "EMAIL": "Email",
+        "PASSWORD": "Password",
+        "FORGOT": "Forgot Password ?",
+        "REMEMBER": "Remember Me",
+        "NOTREGISTER": "Not Registered Yet ?",
+        "REGISTERNOW": "Register Now",
+        "BTN": {
+          "LOGIN": "Login",
+          "CANCEL": "Cancel",
+          "RATE": "Rate"
+        },
+
+        "NOTIFI": {
+          "WRONGPASSEMAIL": "Wrong password or email",
+          "WRONGPASSEMAILTEXT": "Check your credentials, please!",
+          "NOTREGISTERED": "This Email isn't registered",
+          "NOTREGISTEREDTEXT": "Password change failed!",
+          "SOMETHING": "Something went wrong!",
+          "SOMETHINGTEXT": "Password change failed!",
+          "CREDENTIALS": "Give your credentials a shot, please!",
+          "NOTACTIVE": "Sorry, This User is Blocked"
+        },
+
+        "RESET": {
+          "TITLE": "RESET PASSWORD",
+          "MESSAGE": "Check your Email for the validation code, please",
+          "NEW": "New Password",
+          "CODE": "Validation Code",
+          "BTN": {
+            "CONFIRM": "Confirm",
+            "CANCEL": "Cancel"
+          },
+
+          "NOTIFI": {
+            "SUCCESS": "Password has changed successfuly!",
+            "SOMETHING": "Something went wrong!",
+            "SOMETHINGTEXT": "Password change failed!",
+            "PASSWORD": "8 Chars is Must, One Capital, One small, One Number",
+            "ENTERPASS": "Please Enter your password"
+          }
+        }
+      }
+    },
+
+    "SEARCH": {
+      "SEARCRESULTS": "search results for",
+      "START": "start searching ...",
+      "NORESULTS": "no results found",
+      "CATEGORY": "Category"
+    },
+
+    "SERVICESPAGES": {
+      "SERVICEDETAILS": {
+        "USERMANUAL": "User Manual",
+        "STARTSERVICE": "Start the Service",
+        "SERVICEINFO": "Service Information",
+        "STEPSS": "Steps",
+        "TERMSS": "Terms",
+        "OTHERS": "Others",
+        "RATING": "Service Card Rating",
+        "CHANELS": "Service Channels",
+        "TYPE": "Service Type",
+        "SECTOR": "Sector/Department",
+        "STRUCTURING": "Structuring the service",
+        "PROVIDER": "Service Provider",
+        "CATEGORY": "Client Category",
+        "TERMS": "Terms of Service",
+        "DOCUMENTS": "Required Documents",
+        "RELATEDSERVICES": "Related Services",
+        "PREVIOUSSERVICES": "Previous Services",
+        "STEPS": "Steps to Obtain Services",
+        "APPLCATION": "Application Forms",
+        "LIMITATION": "Service Limitation",
+        "CHARGES": "Service Charges",
+        "DURATION": "Duration of Service Performance",
+        "INQUIRIES": "For inquiries, click here",
+        "TECHNICALSUPPORT": "Technical Support",
+        "LINKS": "Links",
+        "APPLYREQUEST": "Applying Request",
+        "REQUESTREVIEW": "Request Review",
+        "REQUESTAPPROVE": "Request Approval",
+        "FEESPAYMENT": "Fees Payment",
+        "RECEIVESERVICE": "Receive Service"
+      },
+
+      "PAID": {
+        "ID": "Order ID",
+        "CURRENCR": "Order Currency",
+        "AMOUNTORDER": "Order Amount",
+        "AED": "AED",
+        "AMOUNT": "amount",
+        "FEESDESC": "Fees Description",
+        "SEAL": "Seal",
+        "TATAL": "Total",
+        "ORIGINCER": "Certificate of Origin",
+        "FORCOOREQ": "For coo request code",
+        "AMEN": "Amendment of Certificate of Origin",
+        "RATI": "Ratification"
+      },
+
+      "DIRECTORY": {
+        "RATESERVICE": "Rate This Service",
+        "NORESULTS": "no results found",
+        "EXPORTEXCEL": "Export To Excel",
+        "EXPORTPDF": "Export To Pdf",
+        "ADRESS": "Address",
+        "TITLE": "Business Directory (Inquiry about enterprises and companies)",
+        "ESTABLISHMENT": "Establishment Name (If Any)",
+        "MOBILE": "Mobile Phone",
+        "MEMBERS": "Members",
+        "ACTIVITIES": "Activities",
+        "SEARCHFEEDBACK": "Search Data: Please Fill One Field At Least Below",
+        "TRADENAME": "Trade Name",
+        "TRADEREG": "Trade Registration NO.",
+        "BOX": "P.O.Box",
+        "ACTIVITY": "Activity",
+        "SECTOR": "Sector",
+        "PHONENUM": "Phone Number",
+        "LOCATION": "Location",
+        "TRADECODE": "Trade Code",
+        "COMPANYDET": "Company Details",
+        "LEGAL": "Company Legal Status",
+        "ACTIVITYCODE": "Activity Code",
+        "ACTIVTYNAME": "Activity Name",
+        "ACTIVITYPLACEHOLDER": "Type 2 letters minimum"
+      },
+
+      "DELETED": {
+        "TITLE": "Deleted Requests List",
+        "REQNUM": "Request No",
+        "REQTYPE": "Request Type",
+        "REQDATE": "Request Date",
+        "REQNO": "Request Number",
+        "ISSUENO": "Issue Number",
+        "DELETEDATE": "Delete Date",
+        "INVOICENUM": "Invoice No",
+        "STATUS": "Status",
+        "REASON": "Reason",
+        "VIEW": "View"
+      },
+
+      "SUPPLIER": {
+        "WEBSITE": "(http or https)://www.example.com",
+        "HAVETAX": "I have Tax Number",
+        "CLOSE": "Close",
+        "NOTE": "Note",
+        "VIEWNOTE": "View",
+        "ADDYOURNOTE": "Add Your Note",
+        "ADDNOTE": "Add Note",
+        "NOTES": "Notes",
+        "ATTACHMENTS": "Attachments",
+        "REPLY": "Reply",
+        "EMIRATE": "Emirate",
+        "COUNTRY": "Country",
+        "PHONETEXT": "Please Add Phone Number",
+        "ATTACHMENT": "Attachments",
+        "COSTAMP": "Company Stamp",
+        "SUPPNUM": "Supplier Number",
+        "DATE": "Date",
+        "OFFICAL": "For Official Use Only",
+        "SIGNATURE": "Signature",
+        "SIGNATUREHELPERTEXT": "image type png or jpg,and Max size is 25 MB",
+        "DRAGFILE": "Drag and Drop a File or Click here",
+        "DRAGIMG": "Drag and Drop an Image or Click here",
+        "PLEDGENAME": "Name",
+        "PLEDGETEXT": "We hereby agree to abide with all terms & conditions for registering & declare that all the information given by us are true",
+        "PLEDGE": "Pledge",
+        "SPONSORNAME": "Sponsor Name",
+        "SUPPORTREG": "Registered with a sponsor",
+        "TITLE": "New Supplier Registration",
+        "DETAILS": "Supplier Details",
+        "NAME": "Trade Name",
+        "CITY": "City",
+        "DIRECTOR": "Director Name",
+        "SITE": "Website",
+        "REPRESENTTITLE": "Representative Details",
+        "REPRESENT": "Representative",
+        "MOBILE": "Mobile",
+        "LICENSE": "License Info",
+        "LICNO": "License No.",
+        "CHAMBERNO": "chamber No.",
+        "ISSUEDATE": "issue date",
+        "TAX": "Tax Registered No.",
+        "INDIVIDUAL": "Individuals Foundation",
+        "COMPANY": "company",
+        "RAK": "RAK SME",
+        "APPROV": "Please choose the activity closest to the main activity of the company (activities will be found in the commercial license):",
+        "ADD": "add activity",
+        "BANKDETAILS": "Bank Account Details",
+        "ACCNAME": "Account Name",
+        "ACCNUM": "Account Number",
+        "BRANCH": "Bank Branch Name",
+        "BANKNAME": "bank name",
+        "IBAN": "IBAN",
+        "SUBMIT": "Submit",
+        "UPDATE": "Update"
+      },
+
+      "COOVERIFY": {
+        "TITLE": "Verification The Issuance of The Certificate of Origin",
+        "CODE": "Insert Verify Code",
+        "BTN": "Verify",
+        "MSG": "Coo verification id does not exist, please try again !",
+        "DEAR": "Dear Customer,",
+        "THANKS": "Thank you for contacting RAK Chamber of Commerce and Industry",
+        "CANCEL": "Cancel",
+        "OK": "OK"
+      },
+
+      "ORIGIN": {
+        "TITLE": "Issuing Certificate of Origin",
+        "GENERAL": "General information",
+        "MEMBERSHIP": "Membership Code",
+        "USERCODE": "User Code",
+        "CLIENTNAME": "Client Name",
+        "CERTYPE": "Certificate Type",
+        "INVDATE": "Invoice Date",
+        "INVNUM": "Invoice Number",
+        "INVVALUE": "Invoice Value",
+        "CURRENCY": "Currency",
+        "CERFEES": "Certificate Fees",
+        "COUNTRY": "Consignee country and country of origin",
+        "ORIGIN": "Country of Origin",
+        "CONSIGNEE": "Country of Consignee",
+        "COUNTRYNUM": "Selected No. Country of Origin",
+        "MAX": "The maximum number of countries of origin is fifteen",
+        "PORT": "Port of Discharge",
+        "DEPARTURE": "Estimated Date of Departure",
+        "DESTINATION": "Destination Address",
+        "CHOOSE": "Choose Certificate Type to show Required Attachments",
+        "ADDITIONALCOPY": "Additional copy (Optional)",
+        "ADDITIONALSEAL": "Additional seal (Optional)",
+        "SEALSNOTE": "Note: three seals on invoices are included in the paid fees"
+      },
+
+      "AMEND": {
+        "CODE": "Select Issued COO Code",
+        "ADRESS": "Address",
+        "ADRESSPHONE": "Address or Mobile Number",
+        "AFTER": "After Editing",
+        "BEFORE": "Before Editing",
+        "TRANSPORTCOUNTRY": "Transport / Consignee country of origin",
+        "TRANSPORT": "Transportation",
+        "COUNTRY": "Consignee country of origin",
+        "GOODDETAILS": "Goods Details",
+        "HS": "HsCode",
+        "NAME": "Name",
+        "QUANTITY": "Quantity",
+        "UNIT": "Unit Of Measure",
+        "WEIGHT": "Total Weight",
+        "PRICE": "Total Price",
+        "ADVANCE": "Advanced Details",
+        "HOLDER": "as per attached Invoice",
+        "ONE": "line1",
+        "TWO": "line2",
+        "THREE": "line3",
+        "FOUR": "line4",
+        "FIVE": "line5",
+        "SIX": "line6",
+        "SEVEN": "line7",
+        "EIGHT": "line8",
+        "NINE": "line9",
+        "GOODS": "Goods",
+        "UNITPRICE": "Unit Price",
+        "GOODSLIST": "Goods List",
+        "COPIES": "Request Additional Copies",
+        "ORIGINAL": "Note: There is an original copy of the certificate and two additional copies",
+        "NUMBER": "Select the Number of Copies",
+        "COPY": "Copy Fees",
+        "SEALS": "Request Additional Seals",
+        "SEALSNUM": "Select the Number of Seals",
+        "SEALSFEES": "Seals Fees",
+        "OTHER": "Other Reasons"
+      },
+
+      "NEWMEMBERSHIP": {
+        "TITLE": "Inquiring About New Membership Fees",
+        "CATEGORY": "Membership Category",
+        "STATUS": "Legal Status",
+        "DOMAIN": "Domain",
+        "ACTIVITIES": "Business Activities",
+        "ADD": "Add",
+        "CALCULATE": "Calculate Fees",
+        "ESTIMATEDFEES": "Estimated Fees of New Membership",
+        "FEESDESC": "Fees Description",
+        "AMOUNT": "Amount"
+      },
+
+      "RATIFICATION": {
+        "DETAILS": "Ratification Details",
+        "RAFITYPE": "Select Ratification Type",
+        "DOC": "Document type",
+        "LANG": "Label Language",
+        "AR": "Arabic",
+        "EN": "English",
+        "PERSONNAME": "Insert Person Name",
+        "PDF": "To download Undertaking Form (PDF)",
+        "ATTACH": "Attachments",
+        "CLIENT": "Client Notes",
+        "EMPLOYEE": "Employee Notes",
+        "DOCDESC": "Document Description"
+      },
+
+      "ADDITIONALREQ": {
+        "TITLE": "COO Additional Request (copies and seals)",
+        "ISSUEDCOO": "Select Issued COO Code",
+        "TYPE": "Select Service Type",
+        "COUNT": "Count",
+        "SEAL": "Additional Seal",
+        "COPY": "Additional Copy",
+        "FEES": "Fees",
+        "NOTES": "Notes",
+        "ATTACHMENT": "Attachments Required",
+        "SAVE": "Save"
+      },
+
+      "OTHERREQ": {
+        "TITLE": "Other Request",
+        "ISSUEDCOO": "Select Issued COO Code",
+        "TYPE": "Select Service Type",
+        "COUNT": "Count",
+        "SEAL": "Additional Seal",
+        "COPY": "Additional Copy",
+        "FEES": "Fees",
+        "NOTES": "Notes",
+        "ATTACHMENT": "Attachments Required",
+        "SAVE": "Save",
+        "OTHERORIGIN(FORMAPAPERS)": "Other origin (Form A papers)",
+        "CORRECTIONSTAMP": "correction stamp",
+        "ORIGINALSEAL": "Original seal",
+        "LIVESEAL": "live seal"
+      },
+
+      "FORMS": {
+        "LEGAL": {
+          "DESC": "A service extended by RAK Chamber to Businessmen & Businesses, providing them with legal knowledge and insight for cost and time efficiency and preventing any legal complications that they might be faced with."
+        },
+        "FORM": {
+          "COMPANYEMAIL": "Email",
+          "FIELDS": "All Fields with this sign ( ",
+          "REQUIRED": " ) are Required",
+          "NAME": "Name",
+          "COMPANY": "Company Name",
+          "PHONE": "Phone",
+          "FAX": "Fax",
+          "EMAIL": "E-mail",
+          "SUBJECT": "Subject",
+          "CONSULT": "Consultancy Details",
+          "MESSAGE": "Message",
+          "RESPONSE": "How do you prefer receiving response on your query:",
+          "NATURE": "Nature of the data required",
+          "BTN": "submit"
+        }
+      },
+
+      "SIDEMENU": {
+        "MYREQUEST": "My Request",
+        "REGISTERATION": "Registeration",
+        "DASHBOARD": "My Dashboard",
+        "REQUESTSLIST": "Requests List",
+        "REQUESTISSUED": "Issued Requests",
+        "CIRCULARS": "Circulars",
+        "REQUESTDELETED": "Deleted Requests",
+        "BUSINESS": "Business Services",
+        "ISSUING": "Issuing Certificate of Origin",
+        "ADDITIONAL": "Additional Request (copies and seals)",
+        "AMENDMENT": "Amendment Issued COO Request",
+        "RATIFICATION": "Ratification Request",
+        "VERIFICATION": "Verification The Issuance of The Certificate of Origin",
+        "RATIFICATIONVERIFICATION": "Ratification Verification",
+        "MEMBERSHIP": "Verification of The Membership Certificate",
+        "INQUIRING": "Inquiring About New Membership Fees",
+        "DIRECTORY": "Business Directory",
+        "SUPPLIER": "Supplier Services",
+        "INDIVIDUAL": "Individuals Services",
+        "OTHER": "Other services",
+        "LOGOUT": "Log out",
+        "PROFILE": "Profile",
+        "EXPIRE": "Expiry date",
+        "MYSTATISTICS": "My Statistics",
+        "MYREQUESTS": "My Total Requests",
+        "AED": "AED",
+        "PAYMENTS": "My Total Payments",
+        "NITIFICATIONS": "Notifications",
+        "MYREQDETAILS": "My Requests Details",
+        "COOREQ": "No. Coo Requests",
+        "AMEND": "No. Coo Amendments Requests",
+        "COPIES": "No. Additional Copies Requests",
+        "STAMPS": "No. Stamps Requests",
+        "RATIFIREQ": "No. Ratification Requests"
+      },
+
+      "DIALOG": {
+        "WARNING": "Warning",
+        "MRMS": "Mr/Ms From",
+        "REQNOM": "The request No.",
+        "DELETEREQ": "Will be deleted as per you request, and you will not be able to see it within your pending request list",
+        "REASON": "Kindly mention the reason of deleting this request*:",
+        "SURE": "Are you sure you want to delete the request?"
+      },
+      "SIGNUP": {
+        "SUPPLIERPHRASE": "This option is only for the interested vendors in cooperating with RAK Chamber's procurements.",
+        "NEWPASSWORD": "New Password",
+        "OLDPASSWORD": "Old Password",
+        "CONFIRMOLDPASSWORD": "Confirm Old Password",
+        "TIMELINE": "Request Time Line",
+        "APPROVED": "Approved",
+        "REJECTED": "Rejected",
+        "APPLY": "Apply",
+        "PENDING": "Pending",
+        "APPROVE": "Approved/Rejected",
+        "REPNAME": "Representative Name",
+        "NAME": "Name",
+        "UPDATEPROFILE": "Update",
+        "CODE": "Code",
+        "NEWREGISTER": "Register New User",
+        "NEWREGISTERUAE": "Register New User with UAE Pass",
+        "EXISTREGISTERUAE": "Link Existing User with UAE Pass",
+        "MEMBERSHIPCODE": "Membership Number",
+        "MEMBERSHIPDATE": "Membership Since",
+        "MEMBERSHIPCER": "Membership Certificate",
+        "TRN": "Trade Registration NO.",
+        "CONTACTNAME": "Contact Name",
+        "CONTACTNAMEAR": "Contact Name (Arabic)",
+        "RESPONSETYPE": "Preferred Communication Means",
+        "FAVLANG": "Preferred Language",
+        "GENDER": "Gender",
+        "AGE": "Age",
+        "WORKTYPE": "Type Of Work",
+        "USERNAME": "User Name",
+        "USERNAMEORMAIL": "User Name / Email",
+        "PASSWORD": "Password",
+        "CONFIRMPASSWORD": "Confirm New Password",
+        "ARABIC": "Arabic",
+        "ENGLISH": "English",
+        "MALE": "Male",
+        "FEMALE": "Female",
+        "OWNER": "Business owner",
+        "PARTNER": "Partner",
+        "AGENT": "Agent",
+        "EMPLOYEE": "Entity's employee",
+        "OTHER": "Other",
+        "PASSPORTNAME": "Name in Arabic As per passport",
+        "PASSPORTNAMEE": "Name in English As per passport",
+        "PASSPORTNAMEUAE": "Name in Arabic (UAE Pass)",
+        "PASSPORTNAMEEUAE": "Name in English (UAE Pass)",
+        "NAMEAR": "Name in Arabic",
+        "NAMEEN": "Name in English",
+        "PASSPORTNO": "Passport No.",
+        "EIDOPTIONAL": "Emirates ID (Optional)",
+        "EID": "Emirates ID",
+        "SIGNUP": "Sign Up",
+        "SIGNUP_SUPPLIER": "Sign Up",
+        "MEMBERS": "Members",
+        "INDIVIDUALS": "Individuals",
+        "SUPPLIERS": "Suppliers",
+        "LOGIN": "Log In",
+        "USER_CODE": "User Code",
+        "EMAIL": "E-mail",
+        "EMAILPASS": "E-mail (UAE Pass)",
+        "MOBILEPASS": "Mobile Phone (UAE Pass)",
+        "CONFIRM": "Confirm",
+        "LINKUAEPASS": "Link with UAE Pass",
+        "UAEPASSSERVICE": "Do you already have a RAK Chamber services account?",
+        "NEWUSER": "No, I'm a new user",
+        "USERTOLINK": "Yes, I want to link with UAE Pass",
+        "NEWLOGIN": "To log in with another number, click here",
+        "MAILNOTIFY": "Notification By E-mail",
+        "SMSNOTIFY": "Notification By SMS",
+        "YES": "Yes",
+        "NO": "No"
+      },
+      "PROFILE": {
+        "COMPANYINFO": "Company Information",
+        "COMPANYADDRESS": "Company Address",
+        "COMPANYNAME": "Company Name",
+        "ISSUEDATE": "Issue Date",
+        "CLASSIFICATION": "Classification",
+        "CATEGORY": "Category",
+        "ACTIVITIES": "Activities",
+        "CITY": "City",
+        "OFFICEPHONE": "Office Phone",
+        "FAX": "Fax",
+        "PBOX": "P.O.Box",
+        "UPDATE": "Update",
+        "OLDPASSWORD": "Old Password",
+        "CHANGEPASSWORD": "Change Password",
+        "NEWPASSWORD": "New Password",
+        "PERSONALINFO": "Personal Information",
+        "OK": "Ok",
+        "CONFIRMLOGOUT": "Please confirm your logout."
+      },
+      "CHECKOUT": {
+        "CHECKOUT": "CheckOut",
+        "TOTAL": "Order Amount",
+        "TOTALAFTERADJ": "Total Order Amount After Adjustment",
+        "CURRENCY": "Currency",
+        "NOCOO": "Number of COO",
+        "NOSTAMPS": "Number of Stamps",
+        "NOCOPIES": "Number of Copies",
+        "NOAMEND": "Number of Edited Issued COO",
+        "NORATI": "Number Of Ratifications",
+        "PAY": "Pay",
+        "AED": "AED",
+        "COODETAILS": "Details of new coo",
+        "COOLIST": "List of new coo applications selected for payment: ",
+        "COOCODE": "COO Code: ",
+        "FEES": "Fees: ",
+        "STAMPSDETAILS": "Details of the Seals",
+        "STAMPSLIST": "A list of new seal orders selected for payment: ",
+        "COOSTAMPSLIST": "Additional Seals requests follow new coo request: ",
+        "COOISSUEDSTAMPSLIST": "Seals requests for issued coo:",
+        "COOREQ": "For coo request code: ",
+        "CODE": "Code: ",
+        "NUM": "Number: ",
+        "CLOSE": "Close",
+        "COPIESDETAILS": "Details of new additional copy requests",
+        "COPIESLIST": "List of requests for additional copies of selected coo: ",
+        "COOCOPIESLIST": "Additional copy requests follow new coo request: ",
+        "COOISSUEDCOPIESLIST": "Additional copy requests for issued coo request: ",
+        "EDITDETAILS": "Details of Amendment of Issued Certificate of Origin",
+        "EDITLIST": "A list of selected orders to pay: ",
+        "RATIDETAILS": "Details of Ratifications requests",
+        "RATILIST": "List of Selected Ratifications request: ",
+        "REFUNDAMOUNTS": "Refund of previous amounts ",
+        "NOTCOLLECTEDAMOUNTS": "Amounts previously not collected ",
+        "RECEIPT": "RAK Chamber Receipt",
+        "ORDERID": "Order Id",
+        "BANKREF": "Bank Reference",
+        "CARDNUM": "Card Number",
+        "CONTACT": "Please contact us on"
+      }
+    },
+
+    "FAQ": {
+      "SEARCH": {
+        "CATE": "category",
+        "KEYWORD": "keyword",
+        "SEARCH": "search",
+        "ASK": "ask question"
+      },
+      "EXPAND": "expand all",
+      "COLLAPSE": "collapse all"
+    },
+
+    "VISITORS": "visitors number",
+
+    "HELPFUL": {
+      "GEUS": "Do you find this content helpful ?",
+      "YES": "yes",
+      "NO": "no",
+      "TITLE": "Your Opinion and your feedback is important to us - how can we improve this page to help you better?, please add your comments below with a contact method.",
+      "SUBMIT": "Submit",
+      "CANCEL": "Cancel"
+    },
+
+    "ORGANIZATIONAL": {
+      "TITLE": "RAK Chamber Organizational Chart"
+    },
+
+    "INITIATIVE": {
+      "SITEBTN": "visit website",
+      "LAST": "other initiatives"
+    },
+
+    "CAREER": {
+      "REQUIRED": "Required",
+      "TITLE": "Careers",
+      "CREATIVE": "Creative",
+      "LEADER": "Leader",
+      "DIRECTOR": "Director-General Office",
+      "CHAIRMAN": "Chairman Office",
+      "HR": "Human resources department",
+      "CORPORATE": "Corporate communication Office",
+      "IT": "Information technology department",
+      "FINANCIAL": "financial affairs department",
+      "EVENT": "Event Coordination",
+
+      "INVESTMENT": "Investment Opportunity",
+      "SEARCH": {
+        "CLASSIFICATION": "category",
+        "DEPARTMENT": "department",
+        "NAME": "Name"
+      },
+      "CARD": {
+        "FROM": "from",
+        "TO": "to",
+        "REFERENCE": "Reference Number",
+        "DEPARTMENT": "department",
+        "CLASSIFICATION": "classification",
+        "DETAILS": "view details"
+      },
+      "BTN": "apply",
+      "QUALIFICATION": "qualification",
+      "CONDITIONS": "conditions",
+      "SKILLS": "skills",
+      "TASKS": "tasks and responsibilities",
+      "RELATED": "related vacancies",
+      "PERSONAL": "personal information",
+      "DEPARTMENTS": {
+        "administrativeServiceDepartment": "Administrative Service Department",
+        "financialAffairsDepartment": "Financial Affairs Department",
+        "informationTechnologyDepartment": "Information Technology Department",
+        "corporateCommunicationOffice": "Corporate Communication Office",
+        "humanResourcesDepartment": "Human Resources Department",
+        "chairmanOffice": "Chairman Office",
+        "rakReconcilliationAndCommercial": "Rak Reconcilliation And Commercial ",
+        "directorGeneralOffice": "Director General Office",
+        "strategyAndFutureDepartment": "Strategy And Future Department",
+        "rakExhibitionCenter": "Rak Exhibition Center",
+        "rakSme": "Rak Sme",
+        "economicStudiesCommercialDepartment": "Economic Studies Commercial Department",
+        "commercialServiceDepartment": "Commercial Service Department",
+        "investementPromotionDepartment": "Investement Promotion Department"
+      },
+      "LEVEL": {
+        "leader": "Leader",
+        "creative": "Creative"
+      }
+    },
+
+    "CONTACTUS": {
+      "CENTERTITLE": "Customer Happiness Center",
+      "PHONE": "phone",
+      "HEADER": "Contact Us",
+      "REQUIREDFIELDS": "All Fields with this sign (*) are Required",
+      "NAME": "Your Name ",
+      "EMAIL": "Your Email ",
+      "SUBJECT": "Subject ",
+      "MESSAGE": "Message",
+      "NATURE": "Nature of the data required",
+      "RESPONSE": "How do you prefer receiving response on your query:",
+      "CAPTCHA": "Copy the code",
+      "BTN": "Send",
+      "PHONECARD": "Phone",
+      "MAILCARD": "Mail & E-mail",
+      "CHANNELS": "channels",
+      "EMAILUS": "email us",
+      "CHANDESC": "You can contact us through it. You can also visit us at the “Customer Happiness Centers” during working hours."
+    },
+
+    "IDEA": {
+      "TITLE": "ideas",
+      "HEADING": "You Have An Idea?",
+      "DESC": "Do not hesitate to share with us your creative ideas through this section, this portal is available to serve you, and it is from you and to you and your creative ideas are what leads us all to the desired innovation to achieve happiness now and in the future"
+    },
+
+    "PUBLICATIONS": {
+      "SEARCH": {
+        "PUBLICATION": "publication name",
+        "CLASSIFICATION": "classification name"
+      },
+      "BTN": "More",
+      "DOWNLOAD": "Download",
+      "READ": "read"
+    },
+
+    "VIDEODETAILS": {
+      "SUBSCRIBE": "subscribe"
+    },
+
+    "EVENTDETAILS": {
+      "ORGANIZER": "Organizers",
+      "PARTNERS": "Partners",
+      "SURVEY": "survey",
+      "PHOTO": "photo gallery",
+      "VIDEO": "video gallery",
+      "NEWS": "news",
+      "BROADCAST": "broadcast",
+      "FILE": "file",
+      "LINK": "link"
+    },
+
+    "HOME": {
+      "CAROUSEL": {
+        "HOME": {
+          "BUTTON": "More"
+        },
+        "MOSTUSED": {
+          "BUTTON": "View All"
+        },
+
+        "MEDIA": {
+          "BUTTON": "View All",
+          "CARDBUTTON": "More",
+          "HEADERS": {
+            "RAKNEWS": "RAK Champer News",
+            "ECONOMICNEWS": "Economic News"
+          }
+        },
+
+        "PHOTOS": {
+          "CARDBUTTON": "More",
+          "ALLBUTTON": "View All"
+        },
+
+        "VIDEOS": {
+          "WATCHBTN": "Full Screen",
+          "ALLBUTTON": "View All",
+          "VIEWS": "views"
+        },
+
+        "PUBLICATION": {
+          "READBUTTON": "Read",
+          "DETAILSBUTTON": "Details",
+          "DOWNLOADBUTTON": "Download",
+          "ALLBUTTON": "View All"
+        },
+
+        "INVESTMENT": {
+          "ALLBUTTON": "View All",
+          "VIEWBUTTON": "View"
+        },
+
+        "INITIATIVE": {
+          "ALLBUTTON": "View All",
+          "MOREBUTTON": "more"
+        }
+      },
+
+      "SERVICES": {
+        "VENUEBOOKING": "Double click on the desired date to start filling your Booking Request .",
+        "NEEDSUPPORT": "I Need Technical Support Service .",
+        "REPLY": "Reply",
+        "SENDTO": "Send To",
+        "SENDFROM": "Send From",
+        "SUBJECT": "Subject",
+        "ATT": "Attachment",
+        "FILEHELPERTEXT": "File Type : pdf& Maximum Size : 30MB",
+        "MESSAGE": "Message",
+        "CANCEL": "Cancel",
+        "SEND": "Send",
+        "HEADER": "Services",
+        "BOOK": "Apply for Booking",
+        "SPACES": "Spaces",
+        "FACILITIES": "Additional Facilities",
+        "BOOKINFO": "Booking Information",
+        "EVENTTITLE": "Event Title",
+        "ORGNAME": "Organization Name",
+        "STARTDATE": "Start Date",
+        "ENDDATE": "End Date",
+        "VENUE": "Venue",
+        "CONTACTINFO": "Contact Information",
+        "NAME": "Name",
+        "EMAIL": "Email",
+        "PHONE1": "Phone1",
+        "PHONE2": "Phone2",
+        "BOOKIT": "Book",
+        "REQUIRED": "Required",
+        "STARTVALID": "Should Be Before End Date",
+        "EMAILVALID": "Invalid Email Format",
+        "LANGVALID": "Not in the right Language",
+        "USED": {
+          "TAB": "Most Used"
+        },
+        "SEARCH": {
+          "TAB": "Our Services",
+          "TITLES": {
+            "ADMINI": "Administration",
+            "DEPARTMENTS": "Departments",
+            "CATEGORY": "Category",
+            "SUBCATEGORY": "Sub Category",
+            "BENEFICIARY": "Beneficiary",
+            "RECIPIENT": "Recipient"
+          },
+
+          "BUTTONS": {
+            "SEARCH": "Search",
+            "VIEWALL": "view all",
+            "ADVANCEDSEARCH": "Advanced Search"
+          }
+        },
+        "SERVICES": {
+          "TAB": "Our Services",
+          "CARDBUTTON": "More",
+          "ALLBUTTON": "View All"
+        }
+      },
+
+      "MEDIA": {
+        "HEADER": "Media Center",
+        "TABS": {
+          "NEWS": "News",
+          "PHOTOS": "Photos",
+          "VIDEOS": "Videos",
+          "PUPLICATIONS": "Puplications"
+        }
+      },
+
+      "INITIATIVE": {
+        "HEADER": "Opportunity & Initiative",
+        "TABS": {
+          "OPPORTUNITY": "Investment Opportunity",
+          "INITIATIVE": "Initiatives"
+        }
+      },
+
+      "EVENTS": {
+        "HEADER": "Events",
+        "TABS": {
+          "EVENTS": "Events",
+          "THISDAY": "On This Day",
+          "ALL": "View All"
+        }
+      },
+
+      "CONTACTUS": {
+        "INSTAFOLLOW": "Follow Us on Instagram",
+        "HEADER": "Contact With Us"
+      },
+
+      "PARTICIPATION": {
+        "HEADER": "E-Patrticipation",
+
+        "POLLS": {
+          "TAB": "Polls",
+          "VOTE": "Vote",
+          "ALL": "view All"
+        },
+        "IDEAS": {
+          "TAB": "ideas",
+          "EMAIL": "Email",
+          "NAME": "Name",
+          "MESSAGE": "Message",
+          "BTN": "Send"
+        },
+
+        "OPINIONS": {
+          "TAB": "Opinions",
+          "BTN": "all"
+        },
+
+        "AD": {
+          "AD": "AD",
+          "ADSPACE": "AD Space",
+          "BUTTON": "Click Here"
+        },
+
+        "LINKS": {
+          "HEADER": "Important Links"
+        }
+      }
+    },
+
+    "SIDEBAR": {
+      "BREADCRUMB": {
+        "HOME": "Home"
+      },
+
+      "SIDEBARLINKS": {
+        "RELATED": "RELATED LINKS"
+      },
+
+      "AD": {
+        "ADSPACE": "AD Space",
+        "BUTTON": "Click Here"
+      }
+    },
+
+    "SERVICES": {
+      "CARD": {
+        "START": "start",
+        "MORE": "more info"
+      },
+
+      "CHAMBER": {
+        "TABS": {
+          "BUSINESS": "Business Services",
+          "INDIVIDUALS": "Individuals Services",
+          "SUPPLIER": "Supplier Services",
+          "OTHER": "Other"
+        }
+      },
+      "GROUPS": "Groups",
+      "SERVICENAME": "Services",
+      "SELECTGROUP": "Select Service Group",
+      "SELECTSERVICE": "Select Service Name"
+    },
+
+    "MEDIA": {
+      "NEWS": {
+        "CARDBTN": "More",
+        "LATEST": "Last News",
+        "START": "Start",
+        "SEARCH": {
+          "SECTOR": "Sector",
+          "BTN": "search",
+          "RESET": "reset",
+          "TITLE": "title",
+          "CLASSIFICATION": "classifications",
+          "YEAR": "year"
+        }
+      },
+
+      "EVENTS": {
+        "CARDBTN": "More",
+        "VISITBTN": "Visit",
+        "LATEST": "Last Events",
+        "ONTHISDAY": "on this day",
+        "EXTERNAL": "External",
+        "INTERNAL": "Internal",
+        "SEARCH": {
+          "BTN": "search",
+          "NAME": "name",
+          "TYPE": "type",
+          "YEAR": "year"
+        }
+      },
+
+      "INITIATIVES": {
+        "CARDBTN": "More",
+        "VISITBTN": "Visit",
+        "LATEST": "Last Initiatives"
+      },
+
+      "PUBLICATIONS": {
+        "TABS": {
+          "PUBLICATION": "Publication",
+          "INVESTMENT": "Investment Opportunity"
+        },
+        "LATEST": "Last Publications",
+        "DETAILSBTN": "Details",
+        "DOWNLOADBTN": "Download",
+        "READBTN": "Read"
+      },
+
+      "VIDEO": {
+        "LATEST": "Last Videos"
+      },
+
+      "LIVE": {
+        "CARDBTN": "join",
+        "GOTO": "Go to its Live Broadcast "
+      }
+    },
+
+    "OPENDATA": {
+      "PAGE": {
+        "TABLEHEAD": {
+          "REPLY": "Reply",
+          "FROM": "From",
+          "TO": "To",
+          "REPLYDATE": "Date",
+          "VIEW": "View",
+          "YAER": "Year",
+          "SECTOR": "Sector",
+          "TITLE": "Title",
+          "SIZE": "Size",
+          "TYPE": "Type",
+          "COMMENTS": "Comments",
+          "DOWNLOADED": "Downloaded",
+          "RATING": "Rating",
+          "DOWNLOAD": "Download",
+          "DATE": "Date of Uploading",
+          "SOURCE": "From",
+          "READ": "View"
+        },
+        "DETAILS": {
+          "YAER": "Year",
+          "DOWNLOADED": "Downloaded",
+          "RATING": "Document Rating",
+          "BTN": "Download"
+        },
+
+        "FORM": {
+          "REQUIREDFIELDS": "All Fields with this sign (*) are",
+          "REQUIRED": "Required",
+          "NAME": "Your Name",
+          "EMAIL": "Your Email",
+          "MOBILE": "Mobile Number",
+          "TITLE": "Title of this idea",
+          "DESC": "Description",
+          "UPLOAD": "Upload file",
+          "GUIDE": "file type pdf, max size: 25MB",
+          "CHARS": "characters left",
+          "BTN": "Send"
+        },
+
+        "COMMENT": {
+          "TITLE": "Comment:"
+        },
+
+        "REQUEST": {
+          "TITLE": "Request Open Data:"
+        }
+      }
+    },
+
+    "PARTICIPATION": {
+      "POLLS": {
+        "TABS": {
+          "ACTIVE": "Active Polls",
+          "ARCHIVED": "Archived"
+        },
+
+        "BTNS": {
+          "SUBMIT": "Submit",
+          "SHOW": "Show Results"
+        }
+      },
+
+      "OPINIONS": {
+        "BTN": "More",
+        "COMMENT": {
+          "TITLE": "Comment"
+        }
+      },
+
+      "SURVEY": {
+        "BTN": "Take it",
+        "FORMBTNS": {
+          "BACK": "Back",
+          "NEXT": "Next",
+          "SUBMIT": "Submit"
+        },
+
+        "FORMFIELDS": {
+          "TEXT": "type here",
+          "SELECT": "choose one"
+        }
+      },
+
+      "FQA": {
+        "BTNS": {
+          "BACK": "Back",
+          "NEXT": "Next"
+        }
+      }
+    },
+
+    "CAREERS": {
+      "DETAILSBTN": "View Details",
+      "APPLYBTN": "Apply",
+      "MUSLIM": "Muslim",
+      "CHRISTIAN": "Christian",
+      "CVFORM": {
+        "REQUIREDFIELDS": "All Fields with this sign (*) are Required",
+        "FIRST": "First Name",
+        "LAST": "Last Name",
+        "GENDER": "Gender",
+        "NATIONALITY": "Nationality",
+        "QUALIFICATION": "Qualification",
+        "EXPR": "Experience Years",
+        "STATE": "States",
+        "COUNTRY": "Country",
+
+        "RELEGION": "Religion",
+        "BIRTHDATE": "Date of Birth",
+        "BIRTHPLACE": "Place of Birth",
+        "CONTACTINFO": "Contact Information",
+        "GENERALINFO": "General Info",
+        "PHONE": "Telephone Number",
+        "HOMENUM": "Home Number",
+        "EMAIL": "E-mail",
+        "SKYPE": "Skype ID",
+        "LOCATION": "Current Location",
+        "CV": "Your CV",
+        "PHOTO": "Personal Photo",
+        "UPLOADED": "Uploaded successfully",
+        "CODE": "Copy the code ",
+        "SUBMIT": "Submit",
+        "CAPTCHVALIDATION": {
+          "REQUIRED": "Required",
+          "MATCHED": "Not Matched"
+        }
+      }
+    },
+
+    "FOOTER": {
+      "FAQ": "FAQ",
+      "SITEMAP": "site map",
+      "TERMS": "terms of conditions",
+      "CHARTER": "customer charter",
+      "PRIVACY": "privacy policy",
+      "LOCATION": "Al Jaz'ah Road, R.A.K., U.A.E.",
+      "RIGHTS": "© All rights reserved 2022"
+    },
+
+    "RATE": "rate this page",
+
+    "RAKCHAMBER": "RAK Chamber",
+    "RAKCHAMBER_FULLNAME": "RAK CHAMBER OF COMMERCE AND INDUSTRY",
+    "RAKCHAMBER_STREET": "Al Jaz'ah Road",
+    "RAKCHAMBER_NAME": "Ras Al Khaimah",
+    "UAE": "United Arab Emirates",
+    "RAKEX": "RAK Exhibition Center",
+    "RAKAR": "RAK Arbitration Center",
+    "RAKSME": "RAK SME",
+
+    "FORM": {
+      "PHONE": "Phone",
+      "FAX": "Fax"
+    },
+    "WARNING": {
+      "SUBMITTED": "Submitted successfully",
+      "SENDBEFORE": "You sent this message previously",
+      "WRONG": "Something went wrong , please try again",
+      "SUBMITTEDAPP": "Your application submitted successfully!",
+      "APPSENT": "You've already submitted!",
+      "IMGEXIST": "Your Photo is already exist!",
+      "FILEEXIST": "Your CV is already exist!",
+      "COMMENTEXIST": "Comment Exists !",
+      "TRY": "Sorry, something wrong try again later",
+      "YOUTUBE": "Do you want to go to youtube?",
+      "THANKS": "Thanks for your feedback"
+    },
+    "LABEL": {
+      "ID": "ID: ",
+      "SELECTED": "row(s) selected",
+      "PAGEROWS": "Rows Per Page",
+      "OF": "of",
+      "FILTERS": "Filters",
+      "RESET": "Reset",
+      "NODATA": "There is No Data to Display.",
+      "NOSURVEYQUES": "Sorry. The time allotted for participating in the survey has expired",
+      "DOWNLOAD": "Download",
+      "READ": "Read",
+      "VIEWPDF": "View PDF"
+    },
+    "EXITMESSAGE": {
+      "NOTOFFICALWEBSITE": "This is a Testing website",
+      "NOREQUEST": "Please do not Apply any Application here !",
+      "OFFICALWEBSITE": "To Visit Our Offical Website",
+      "CLICK": "Click Here",
+      "TITLE": "You are about to leave the site, Do you want to continue?",
+      "HINT": "Warning",
+      "WARNING": "Warning",
+      "YES": "Yes",
+      "NO": "No"
+    }
+  }
+}
